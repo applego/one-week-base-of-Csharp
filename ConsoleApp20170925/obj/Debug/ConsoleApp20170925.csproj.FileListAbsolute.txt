@@ -1,0 +1,6 @@
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\bin\Debug\ConsoleApp20170925.exe.config
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\bin\Debug\ConsoleApp20170925.exe
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\bin\Debug\ConsoleApp20170925.pdb
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\obj\Debug\ConsoleApp20170925.csprojResolveAssemblyReference.cache
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\obj\Debug\ConsoleApp20170925.exe
+c:\users\常重　友佑\documents\visual studio 2017\Projects\ConsoleApp20170925\ConsoleApp20170925\obj\Debug\ConsoleApp20170925.pdb
